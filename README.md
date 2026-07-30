@@ -111,10 +111,6 @@ Interactive MNIST handwritten digit classifier deployed as a live demo on Huggin
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavifrsharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=vaishnavifrsharma&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
@@ -124,10 +120,6 @@ Interactive MNIST handwritten digit classifier deployed as a live demo on Huggin
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavifrsharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaishnavifrsharma&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 ---
