@@ -118,10 +118,6 @@ Interactive MNIST handwritten digit classifier deployed as a live demo on Huggin
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavifrsharma&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="90%" alt="Activity Graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavifrsharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
 ---
 
 ## Connect
