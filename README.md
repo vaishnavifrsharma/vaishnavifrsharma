@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vaishnavi%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=AI/ML%20Researcher%20|%20Full-Stack%20Developer&descAlignY=65&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:2E1A47&height=200&section=header&text=Vaishnavi%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=AI/ML%20Researcher%20|%20Full-Stack%20Developer&descAlignY=65&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vaishnavi!;CSE+Undergrad+at+DTU;Building+with+ML+%26+Full-Stack;Exploring+Generative+AI+Research;Always+shipping+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering%2C+DTU;Machine+Learning+%7C+Generative+AI;Full-Stack+Product+Engineering;Building+systems+that+ship" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -16,23 +16,22 @@
 
 ---
 
-## About Me
+## About
 
-I'm a second-year **Computer Science Engineering** student at **Delhi Technological University (DTU)**, building at the intersection of AI/ML research and full-stack development.
+Second-year Computer Science Engineering student at Delhi Technological University (DTU), working across machine learning research and full-stack product development.
 
-- 🔬 Currently exploring **generative AI research**, focused on diffusion models
-- 💻 Building **BunkBook** — a full-stack attendance tracker (Next.js + Supabase)
-- 🧠 Actively learning ML through hands-on projects — from CNNs to deepfake detection
-- 🎯 On the hunt for **AI/ML research internships** (winter 2026 cycle)
-- 📸 When I'm not coding: photography, swimming, and skincare science
+- Contributing to an early-stage research collaboration in generative AI, focused on diffusion models
+- Designing and building BunkBook, a full-stack attendance-tracking application with production-grade architecture (Server Components, PWA, tested core logic)
+- Actively pursuing AI/ML research internships for the winter 2026 cycle
+- Background in applied ML — from CNN-based classification to deep learning for audio forensics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vaishnavifrsharma/vaishnavifrsharma/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vaishnavifrsharma/vaishnavifrsharma/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </p>
 
 ---
 
-## Tech Arsenal
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,git,github,vscode,figma,supabase&perline=6&theme=dark" />
@@ -53,52 +52,67 @@ I'm a second-year **Computer Science Engineering** student at **Delhi Technologi
 
 ## Featured Projects
 
-### 🗓️ BunkBook
-A student attendance tracking web app with an absence-first model — defaults to present, only logs absences. Built with a "paper and ink notebook" aesthetic and Framer Motion animations.
+### BunkBook
+A full-stack student attendance-tracking application built around an absence-first data model — the system defaults to "present" and only logs exceptions, minimizing manual entry. Refactored around Server Components for performance, with PWA support and unit-tested core logic.
 
-**Tech:** Next.js • TypeScript • Supabase • Framer Motion
+**Stack:** Next.js · TypeScript · Supabase · Framer Motion
 
----
+<details>
+<summary>Engineering details</summary>
+<br>
 
-### 🎨 Portfolio
-My personal developer portfolio showcasing AI/ML, computer vision, and full-stack projects.
+- Absence-first attendance model reduces daily user input to exceptions only
+- Server Component architecture for reduced client-side JS and faster loads
+- Progressive Web App support for installable, offline-capable use
+- Core business logic covered by unit tests
 
-**Tech:** React • TypeScript • Tailwind CSS • Framer Motion
-🔗 [Live Site](https://portfolio-vaishnavi-sharma-virid.vercel.app/) • [Repo](https://github.com/vaishnavifrsharma/Portfolio-Vaishnavi)
-
----
-
-### ✏️ Vision Pictionary
-Real-time AI Pictionary game using a CNN trained on Google's QuickDraw dataset for live sketch recognition.
-
-**Tech:** React • FastAPI • Python • CNN
-🔗 [Repo](https://github.com/vaishnavifrsharma/vision-pictionary)
+</details>
 
 ---
 
-### 🔍 DeepDetect *(collaborative)*
-A privacy-first tool that detects AI-generated / voice-cloned speech, combining a deep learning model with explainable acoustic signal analysis. Built collaboratively.
+### Vision Pictionary
+A real-time AI-powered Pictionary game pairing a React frontend with a FastAPI backend, using a convolutional neural network trained on Google's QuickDraw dataset to classify sketches as they're drawn.
 
-**Tech:** Python • Wav2Vec2 • FastAPI
-🔗 [Repo](https://github.com/vaishnavifrsharma/Deep-Detect)
+**Stack:** React · FastAPI · Python · CNN
+🔗 [Repository](https://github.com/vaishnavifrsharma/vision-pictionary)
 
 ---
 
-### 🔢 Digit Recognizer
-Interactive MNIST handwritten digit recognizer deployed with Gradio on Hugging Face Spaces.
+### DeepDetect
+A privacy-first audio deepfake detection tool, built collaboratively, that classifies human vs. AI-generated speech by combining a Wav2Vec2-based deep learning model with explainable acoustic signal analysis — achieving 82.4% accuracy on a curated evaluation set.
 
-**Tech:** Python • KNN • Gradio • Hugging Face
-🔗 [Repo](https://github.com/vaishnavifrsharma/digit-recognizer-cnn)
+**Stack:** Python · Wav2Vec2 · FastAPI
+🔗 [Repository](https://github.com/vaishnavifrsharma/Deep-Detect)
+
+---
+
+### Portfolio
+Personal developer portfolio built to showcase AI/ML, computer vision, and full-stack work, with a focus on performance and clean interaction design.
+
+**Stack:** React · TypeScript · Tailwind CSS · Framer Motion
+🔗 [Live](https://portfolio-vaishnavi-sharma-virid.vercel.app/) · [Repository](https://github.com/vaishnavifrsharma/Portfolio-Vaishnavi)
+
+---
+
+### Digit Recognizer
+Interactive MNIST handwritten digit classifier deployed as a live demo on Hugging Face Spaces, built while developing foundational ML skills — model training, evaluation, and deployment end-to-end.
+
+**Stack:** Python · KNN · Gradio · Hugging Face
+🔗 [Repository](https://github.com/vaishnavifrsharma/digit-recognizer-cnn)
 
 ---
 
 ## Currently Learning & Researching
 
-`Generative AI` • `Diffusion Models` • `LLM Fine-Tuning` • `System Design` • `Cloud Deployment (Supabase/Vercel)`
+`Generative AI` · `Diffusion Models` · `LLM Fine-Tuning` · `System Design` · `Cloud Deployment`
 
 ---
 
 ## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavifrsharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vaishnavifrsharma&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
@@ -106,6 +120,14 @@ Interactive MNIST handwritten digit recognizer deployed with Gradio on Hugging F
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavifrsharma&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="90%" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavifrsharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaishnavifrsharma&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -128,10 +150,4 @@ Interactive MNIST handwritten digit recognizer deployed with Gradio on Hugging F
 
 </div>
 
-<div align="center">
-
-### *Learn • Build • Research • Repeat*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:2E1A47&height=100&section=footer"/>
