@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:2E1A47&height=200&section=header&text=Vaishnavi%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=AI/ML%20Researcher%20|%20Full-Stack%20Developer&descAlignY=65&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:2E1A47&height=200&section=header&text=Vaishnavi%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=AI/ML%20Engineer%20|%20SDE%20|%20Full-Stack%20Developer&descAlignY=65&descSize=20"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering%2C+DTU;Machine+Learning+%7C+Generative+AI;Full-Stack+Product+Engineering;Building+systems+that+ship" alt="Typing SVG" />
 
@@ -23,7 +23,7 @@ Second-year Computer Science Engineering student at Delhi Technological Universi
 - Contributing to an early-stage research collaboration in generative AI, focused on diffusion models
 - Designing and building BunkBook, a full-stack attendance-tracking application with production-grade architecture (Server Components, PWA, tested core logic)
 - Actively pursuing AI/ML research internships for the winter 2026 cycle
-- Background in applied ML — from CNN-based classification to deep learning for audio forensics
+- Background in applied ML —from CNN-based classification to deep learning for audio forensics
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vaishnavifrsharma/vaishnavifrsharma/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
